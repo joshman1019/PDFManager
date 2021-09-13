@@ -2,15 +2,17 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using PDFManager.Core;
 
 namespace PDFManager.Core.Migrations
 {
     [DbContext(typeof(PDFManagerContext))]
-    partial class PDFManagerContextModelSnapshot : ModelSnapshot
+    [Migration("20210913005959_DocumentIdentificationAdded")]
+    partial class DocumentIdentificationAdded
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

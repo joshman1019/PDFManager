@@ -6,8 +6,8 @@ namespace PDFManager
 {
     public class CreateDocument
     {
-        private PDFDocument m_Document; 
-        public CreateDocument(PDFDocument document)
+        private IPDFDocument m_Document; 
+        public CreateDocument(IPDFDocument document)
         {
             m_Document = document; 
         }

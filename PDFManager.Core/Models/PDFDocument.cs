@@ -2,7 +2,7 @@ using System;
 
 namespace PDFManager.Core
 {
-    public class PDFDocument
+    public class PDFDocument : IPDFDocument
     {
         public int ID { get; set; }
         public string DocumentDescription { get; set; }
@@ -11,5 +11,6 @@ namespace PDFManager.Core
         public DocumentStatus DocumentStatus { get; set; }
         public DocumentVisibility DocumentVisibility { get; set; }
         public bool Archived { get; set; }
+        public string IdentificationString { get; set; }
     }
 }

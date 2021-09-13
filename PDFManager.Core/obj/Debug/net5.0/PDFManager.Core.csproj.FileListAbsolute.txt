@@ -1,0 +1,15 @@
+/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/bin/Debug/net5.0/PDFManager.Core.deps.json
+/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/bin/Debug/net5.0/PDFManager.Core.runtimeconfig.json
+/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/bin/Debug/net5.0/PDFManager.Core.runtimeconfig.dev.json
+/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/bin/Debug/net5.0/PDFManager.Core.dll
+/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/bin/Debug/net5.0/ref/PDFManager.Core.dll
+/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/bin/Debug/net5.0/PDFManager.Core.pdb
+/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/obj/Debug/net5.0/PDFManager.Core.csproj.AssemblyReference.cache
+/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/obj/Debug/net5.0/PDFManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/obj/Debug/net5.0/PDFManager.Core.AssemblyInfoInputs.cache
+/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/obj/Debug/net5.0/PDFManager.Core.AssemblyInfo.cs
+/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/obj/Debug/net5.0/PDFManager.Core.csproj.CoreCompileInputs.cache
+/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/obj/Debug/net5.0/PDFManager.Core.dll
+/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/obj/Debug/net5.0/ref/PDFManager.Core.dll
+/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/obj/Debug/net5.0/PDFManager.Core.pdb
+/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/obj/Debug/net5.0/PDFManager.Core.genruntimeconfig.cache

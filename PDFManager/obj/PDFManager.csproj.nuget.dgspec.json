@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager/PDFManager.csproj": {}
+  },
+  "projects": {
+    "/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/PDFManager.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/PDFManager.Core.csproj",
+        "projectName": "PDFManager.Core",
+        "projectPath": "/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/PDFManager.Core.csproj",
+        "packagesPath": "/home/joshua/.nuget/packages/",
+        "outputPath": "/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/joshua/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.sqlite": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager/PDFManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager/PDFManager.csproj",
+        "projectName": "PDFManager",
+        "projectPath": "/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager/PDFManager.csproj",
+        "packagesPath": "/home/joshua/.nuget/packages/",
+        "outputPath": "/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/joshua/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/PDFManager.Core.csproj": {
+                "projectPath": "/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/PDFManager.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

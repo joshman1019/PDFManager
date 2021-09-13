@@ -6,7 +6,7 @@ namespace PDFManager.Core
     public class PDFManagerContext : DbContext
     {
         // Models
-        DbSet<PDFDocument> PDFDocuments { get; set; }
+        public DbSet<PDFDocument> PDFDocuments { get; set; }
 
         // COntext overrides
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

@@ -1111,19 +1111,19 @@
     ]
   },
   "packageFolders": {
-    "/home/joshua/.nuget/packages/": {}
+    "C:\\Users\\c44jhs\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/PDFManager.Core.csproj",
+      "projectUniqueName": "C:\\Users\\c44jhs\\OneDrive - North Carolina Administrative Office of the Courts\\Desktop\\PDF Manager Pull\\PDFManager\\PDFManager.Core\\PDFManager.Core.csproj",
       "projectName": "PDFManager.Core",
-      "projectPath": "/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/PDFManager.Core.csproj",
-      "packagesPath": "/home/joshua/.nuget/packages/",
-      "outputPath": "/home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/obj/",
+      "projectPath": "C:\\Users\\c44jhs\\OneDrive - North Carolina Administrative Office of the Courts\\Desktop\\PDF Manager Pull\\PDFManager\\PDFManager.Core\\PDFManager.Core.csproj",
+      "packagesPath": "C:\\Users\\c44jhs\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\c44jhs\\OneDrive - North Carolina Administrative Office of the Courts\\Desktop\\PDF Manager Pull\\PDFManager\\PDFManager.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/joshua/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\c44jhs\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -1183,7 +1183,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "D:\\dotnet-sdk-5.0.203-win-x64\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

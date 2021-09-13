@@ -14,13 +14,19 @@ namespace PDFManager
             m_Document = document;
         }
 
-        public void RemoveDocument(string identificationString)
+        public void RemoveDocument()
         {
+            // Guard
+            if(m_Document is null)
+            {
+                throw new Exception("The document you are attempting to delete is null");
+            }
+
             using (PDFManagerContext context = new PDFManagerContext())
             {
                 using (IDbContextTransaction transaction = context.Database.BeginTransaction())
                 {
-                    var result = context.PDFDocuments.FirstOrDefault(p => p.IdentificationString == identificationString);
+                    var result = context.PDFDocuments.FirstOrDefault(p => p.IdentificationString == m_Document.IdentificationString);
                     if(result is not null)
                     {
                         try

@@ -13,3 +13,18 @@
 /home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/obj/Debug/net5.0/ref/PDFManager.Core.dll
 /home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/obj/Debug/net5.0/PDFManager.Core.pdb
 /home/joshua/Development/MoleculeSoftware/Packages/PDFManager/PDFManager.Core/obj/Debug/net5.0/PDFManager.Core.genruntimeconfig.cache
+C:\Users\c44jhs\OneDrive - North Carolina Administrative Office of the Courts\Desktop\PDF Manager Pull\PDFManager\PDFManager.Core\bin\Debug\net5.0\PDFManager.Core.deps.json
+C:\Users\c44jhs\OneDrive - North Carolina Administrative Office of the Courts\Desktop\PDF Manager Pull\PDFManager\PDFManager.Core\bin\Debug\net5.0\PDFManager.Core.runtimeconfig.json
+C:\Users\c44jhs\OneDrive - North Carolina Administrative Office of the Courts\Desktop\PDF Manager Pull\PDFManager\PDFManager.Core\bin\Debug\net5.0\PDFManager.Core.runtimeconfig.dev.json
+C:\Users\c44jhs\OneDrive - North Carolina Administrative Office of the Courts\Desktop\PDF Manager Pull\PDFManager\PDFManager.Core\bin\Debug\net5.0\PDFManager.Core.dll
+C:\Users\c44jhs\OneDrive - North Carolina Administrative Office of the Courts\Desktop\PDF Manager Pull\PDFManager\PDFManager.Core\bin\Debug\net5.0\ref\PDFManager.Core.dll
+C:\Users\c44jhs\OneDrive - North Carolina Administrative Office of the Courts\Desktop\PDF Manager Pull\PDFManager\PDFManager.Core\bin\Debug\net5.0\PDFManager.Core.pdb
+C:\Users\c44jhs\OneDrive - North Carolina Administrative Office of the Courts\Desktop\PDF Manager Pull\PDFManager\PDFManager.Core\obj\Debug\net5.0\PDFManager.Core.csprojAssemblyReference.cache
+C:\Users\c44jhs\OneDrive - North Carolina Administrative Office of the Courts\Desktop\PDF Manager Pull\PDFManager\PDFManager.Core\obj\Debug\net5.0\PDFManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c44jhs\OneDrive - North Carolina Administrative Office of the Courts\Desktop\PDF Manager Pull\PDFManager\PDFManager.Core\obj\Debug\net5.0\PDFManager.Core.AssemblyInfoInputs.cache
+C:\Users\c44jhs\OneDrive - North Carolina Administrative Office of the Courts\Desktop\PDF Manager Pull\PDFManager\PDFManager.Core\obj\Debug\net5.0\PDFManager.Core.AssemblyInfo.cs
+C:\Users\c44jhs\OneDrive - North Carolina Administrative Office of the Courts\Desktop\PDF Manager Pull\PDFManager\PDFManager.Core\obj\Debug\net5.0\PDFManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\c44jhs\OneDrive - North Carolina Administrative Office of the Courts\Desktop\PDF Manager Pull\PDFManager\PDFManager.Core\obj\Debug\net5.0\PDFManager.Core.dll
+C:\Users\c44jhs\OneDrive - North Carolina Administrative Office of the Courts\Desktop\PDF Manager Pull\PDFManager\PDFManager.Core\obj\Debug\net5.0\ref\PDFManager.Core.dll
+C:\Users\c44jhs\OneDrive - North Carolina Administrative Office of the Courts\Desktop\PDF Manager Pull\PDFManager\PDFManager.Core\obj\Debug\net5.0\PDFManager.Core.pdb
+C:\Users\c44jhs\OneDrive - North Carolina Administrative Office of the Courts\Desktop\PDF Manager Pull\PDFManager\PDFManager.Core\obj\Debug\net5.0\PDFManager.Core.genruntimeconfig.cache
